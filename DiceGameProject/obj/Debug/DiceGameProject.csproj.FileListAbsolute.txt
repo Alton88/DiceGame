@@ -1,0 +1,6 @@
+c:\users\alton\documents\visual studio 2015\Projects\DiceGameProject\DiceGameProject\bin\Debug\DiceGameProject.exe.config
+C:\Users\Alton\Documents\Visual Studio 2015\Projects\DiceGameProject\DiceGameProject\bin\Debug\DiceGameProject.exe
+C:\Users\Alton\Documents\Visual Studio 2015\Projects\DiceGameProject\DiceGameProject\bin\Debug\DiceGameProject.pdb
+C:\Users\Alton\Documents\Visual Studio 2015\Projects\DiceGameProject\DiceGameProject\obj\Debug\DiceGameProject.csprojResolveAssemblyReference.cache
+C:\Users\Alton\Documents\Visual Studio 2015\Projects\DiceGameProject\DiceGameProject\obj\Debug\DiceGameProject.exe
+C:\Users\Alton\Documents\Visual Studio 2015\Projects\DiceGameProject\DiceGameProject\obj\Debug\DiceGameProject.pdb
